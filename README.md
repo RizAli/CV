@@ -1,7 +1,6 @@
 # Rizwan ALi  - Junior Developer
-###### 
-                                Address: 28 Farnell Road, Isleworth, west London TW7 6EX
-                      e-mail: rizcube@gmail.com; mobile: 075-1500-1998: DfES No: 06/56341
+###### Address: 28 Farnell Road, Isleworth, west London TW7 6EX
+       e-mail: rizcube@gmail.com; DfES No: 06/56341
 ###### Objective
 ```
 As a...       Junior Web Developer
